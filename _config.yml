@@ -1,0 +1,13 @@
+title: rodentrabies
+email: rodentrabies@protonmail.com
+description: >-
+  Software, economics, cryptography, Bitcoin, Lisp...
+baseurl: ""
+url: "https://rodentrabies.btc.us"
+twitter_username: rodentrabies
+github_username:  rodentrabies
+
+plugins:
+  - jekyll-feed
+
+theme: minima
