@@ -5,6 +5,8 @@ date:   2018-09-08 11:36:00 +0300
 categories: jekyll update
 ---
 
+## Introduction
+
 Last week Go team published a page with detailed [specification drafts][1] for
 Go 2 generics and error handling tools. The proposal is both well-thought and
 brave, since one of the main ideas is to introduce contract system akin to C++
