@@ -1,13 +1,23 @@
 title: rodentrabies
-email: rodentrabies@protonmail.com
 description: >-
   Software, economics, cryptography, Bitcoin, Lisp...
 baseurl: ""
-url: "https://rodentrabies.btc.us"
-twitter_username: rodentrabies
-github_username:  rodentrabies
+url: "https://rodentrabies.com"
 
-plugins:
-  - jekyll-feed
+author:
+  name: rodentrabies
+  email: "rodentrabies@protonmail.com"
 
-theme: minima
+remote_theme: "jekyll/minima@1fe0fbf"
+
+minima:
+  nav_pages:
+    - projects.md
+    - about.md
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/rodentrabies"
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/rodentrabies"
