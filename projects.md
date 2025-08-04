@@ -4,8 +4,8 @@ title: projects
 permalink: /projects/
 ---
 
-* [`bp`](https://github.com/rodentrabies/bp) - Common Lisp library
-  implementing various components of Bitcoin Protocol.
+* [**bp**](/projects/bp/) - Common Lisp library for interacting with the
+  Bitcoin network.
 
-* [`brdf`](https://github.com/rodentrabies/brdf) - load and explore
-  Bitcoin transation graph as RDF.
+* [**brdf**](/projects/brdf/) - explore Bitcoin transation graph as RDF
+  using AllegroGraph.
