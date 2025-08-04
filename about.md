@@ -4,4 +4,6 @@ title: about
 permalink: /about/
 ---
 
-![logo](logo.jpg){: style="width: 400px;"}
+<p align="center">
+  <img src="/about/logo.jpg" alt="rodentrabies">
+</p>

@@ -1,8 +1,12 @@
 title: rodentrabies
 description: >-
-  Software, economics, cryptography, Bitcoin, Lisp...
+  Bitcoin, Lisp, software, economics...
+  bc1qjnlky63epenkuaqes6n28s0zzywyg2q80u28vg
 baseurl: ""
 url: "https://rodentrabies.com"
+
+plugins:
+  - jekyll-feed
 
 author:
   name: rodentrabies
