@@ -5,7 +5,7 @@ permalink: /projects/bp/
 ---
 
 <p align="center">
-  <img src="/projects/bp.svg" width="70%" alt="(bp) logo">
+  <img src="https://raw.githubusercontent.com/rodentrabies/bp/refs/heads/master/docs/logo.svg" width="70%" alt="(bp) logo">
 </p>
 
 [**(bp)**][bp-on-github] is a Common Lisp library for interacting with the
